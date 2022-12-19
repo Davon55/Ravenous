@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This is a react Front End application that allows users to search different resturants using the YELP API
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
